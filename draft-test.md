@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Pengwenlong Gu
+    organization: CNAM Paris
+    email: pengwenlong@cnam.fr
 
 normative:
 
